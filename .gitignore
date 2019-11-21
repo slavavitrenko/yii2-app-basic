@@ -1,0 +1,9 @@
+.idea/
+runtime/
+vendor/
+composer.lock
+/.env
+stats/
+tmp/
+web/phpmyadmin
+web/pma
